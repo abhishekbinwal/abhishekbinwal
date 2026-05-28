@@ -2,7 +2,7 @@
 
 # ⚡ ABHISHEK BINWAL ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+DevOps;DSA+Enthusiast;Building+Cool+Things+🚀;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+MERN+%7C;DSA+Enthusiast;Building+Cool+Things+🚀;Open+Source+Learner" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3YjR3eW12Z2V5bWc5M2M4OHM4MHBwdjB4M2dzNXBvZWE0d2Q5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
@@ -18,16 +18,16 @@
 Name: Abhishek Binwal
 Role: Full Stack Developer , AI Developer 
 Learning:
-  - Data Structures & Algorithms
   -
-  - System Design
+  -
+  - 
 Tech Stack:
   - MERN
   - Java
   - Python
 Focus:
   - Building scalable apps
-  - Open Source
+  - 
 ```
 
 ---
@@ -68,10 +68,10 @@ Focus:
 
 # 🛠️ Current Mission
 
-- 🔥 Grinding DSA in Java
+- 🔥 
 - ⚡ Building MERN projects
 - 
-- 🚀 Preparing for internships
+- 🚀 
 - 🧠 Improving problem-solving skills
 
 ---
