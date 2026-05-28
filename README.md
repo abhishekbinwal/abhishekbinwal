@@ -19,7 +19,7 @@ Name: Abhishek Binwal
 Role: Full Stack Developer , AI Developer 
 Learning:
   - Data Structures & Algorithms
-  - DevOps
+  -
   - System Design
 Tech Stack:
   - MERN
@@ -70,7 +70,7 @@ Focus:
 
 - 🔥 Grinding DSA in Java
 - ⚡ Building MERN projects
-- ☁️ Learning DevOps & Cloud
+- 
 - 🚀 Preparing for internships
 - 🧠 Improving problem-solving skills
 
